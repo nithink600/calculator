@@ -158,6 +158,7 @@ if __name__ == "__main__":
 	Decimal= Button(gui, text='.', fg='black', bg='red', 
 					command=lambda: press('.'), height=1, width=7) 
 	Decimal.grid(row=6, column=0) 
-	# start the GUI 
+	# start the GUI
+    # first git commit
 	gui.mainloop() 
 
